@@ -1,2 +1,1 @@
-master
-fix bugs
+master fixbug
