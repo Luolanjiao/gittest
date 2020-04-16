@@ -1,1 +1,6 @@
-a
+<version>|<version>
+<a></a>
+<version>1.0.0-SNAPSHOT<version>
+<b></b>
+<version>|<version>
+<c></c>
